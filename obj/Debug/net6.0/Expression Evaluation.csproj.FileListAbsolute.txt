@@ -1,0 +1,15 @@
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\obj\Debug\net6.0\Expression Evaluation.csproj.AssemblyReference.cache
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\obj\Debug\net6.0\Expression Evaluation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\obj\Debug\net6.0\Expression Evaluation.AssemblyInfoInputs.cache
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\obj\Debug\net6.0\Expression Evaluation.AssemblyInfo.cs
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\obj\Debug\net6.0\Expression Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\bin\Debug\net6.0\Expression Evaluation.exe
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\bin\Debug\net6.0\Expression Evaluation.deps.json
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\bin\Debug\net6.0\Expression Evaluation.runtimeconfig.json
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\bin\Debug\net6.0\Expression Evaluation.dll
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\bin\Debug\net6.0\Expression Evaluation.pdb
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\obj\Debug\net6.0\Expression Evaluation.dll
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\obj\Debug\net6.0\refint\Expression Evaluation.dll
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\obj\Debug\net6.0\Expression Evaluation.pdb
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\obj\Debug\net6.0\Expression Evaluation.genruntimeconfig.cache
+C:\Users\charl\OneDrive\Desktop\Term 1\Algorithms and Data Structures\Coursework\Project 2\Expression Evaluation\obj\Debug\net6.0\ref\Expression Evaluation.dll
